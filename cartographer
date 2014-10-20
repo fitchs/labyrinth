@@ -1,0 +1,6 @@
+#ifndef CARTOGRAPHER_H_
+# define CARTOGRAPHER_H_
+
+# define CELL(x, y, linesize) ((y) * (linesize) + x)
+
+#endif /* !CARTOGRAPHER_H_ */
